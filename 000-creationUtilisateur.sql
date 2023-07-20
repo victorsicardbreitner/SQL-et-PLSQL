@@ -1,0 +1,3 @@
+ALTER session SET "_ORACLE_SCRIPT"=true;
+CREATE USER usezero IDENTIFIED BY oraclezero;
+GRANT ALL PRIVILEGES TO userzero;
